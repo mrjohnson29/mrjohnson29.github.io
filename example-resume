@@ -1,0 +1,44 @@
+<html>
+<head>
+<style>
+</style>
+</head>
+<body>
+  <header> <center>Iris the Osprey </center></header>
+<h3><center>3000 S Higgins Ave, Missoula MT</center></h3>
+
+<aside>
+<img src="https://northernwoodlands.org/images/made/images/articles/osprey_header_400_425_60.jpg" alt="Photo of a tree"<br>
+</aside>
+<section id="summary">
+<h2>Summary</h2>
+At approximately 27 years old, I am the oldest living recorded osprey.
+  </section>
+<section id="experience">
+<h2>Professional Experience</h2>
+Divebomb attacker, 1999-Present<br>
+Clark Fork fishing restriction enforcer, 2020-2024 
+  </section>
+<section id="education">
+<h2>Education</h2>
+University of Montana, B.S. in Bird Biology, 2020
+  </section>
+<section id="awards">
+<h2>Awards</h2>
+Oldest Living Osprey, since birth
+  </section>
+  <section id="skills">
+<h2>Skills</h2>
+<h3>Software</h3>
+Github
+<h3>Soft Skills</h3>
+Fishing
+  </section>
+  <p>
+  <footer><center>
+    Email me: Iristheosprey@umontana.edu </center>
+  </footer>
+</body>
+</html>
+
+
